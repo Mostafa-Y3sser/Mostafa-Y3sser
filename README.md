@@ -1,5 +1,13 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=.NET+Backend+Developer" alt="Typing SVG"/>
+  </a>
+</p>
 # 💫 About Me:
-👯 I’m looking to collaborate on: .NET / ASP.NET Core web applications, RESTful APIs, or open-source backend projects<br>🤝 I’m looking for help with: Advanced software architecture patterns and cloud integration<br>🌱 I’m currently learning: .NET 10 and Clean Architecture<br>💬 Ask me about: C#, ASP.NET Core, Entity Framework Core, RESTful API design, and SQL Server
+🎓 4th-year Computer Science student at Tanta University<br>
+👯 I’m looking to collaborate on: .NET / ASP.NET Core web applications, RESTful APIs, or open-source backend projects<br>
+🤝 I’m looking for help with: Advanced software architecture patterns and cloud integration<br>
+🌱 I’m currently learning: .NET 10 and Clean Architecture<br>💬 Ask me about: C#, ASP.NET Core, Entity Framework Core, RESTful API design, and SQL Server
 
 
 ## 🌐 Socials:
@@ -40,6 +48,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mostafa-Y3sser&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mostafa-Y3sser&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Mostafa-Y3sser&color=blue&style=flat)](https://github.com/Mostafa-Y3sser)
