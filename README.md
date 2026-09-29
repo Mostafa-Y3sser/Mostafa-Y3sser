@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=.NET+Backend+Developer" alt="Typing SVG"/>
   </a>
 </p>
+
 # 💫 About Me:
 🎓 4th-year Computer Science student at Tanta University<br>
 👯 I’m looking to collaborate on: .NET / ASP.NET Core web applications, RESTful APIs, or open-source backend projects<br>
